@@ -1,0 +1,9 @@
+Package: com.p2kdev.safarifind
+Name: SafariFind (rootless)
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Description: Easy access to find feature in Safari! Long-press the Share button to open Find on Page.
+Section: Tweaks
+Depends: firmware (>=15.0), mobilesubstrate
+Author: P2KDev (rebuilt from binary)
+Maintainer: P2KDev
