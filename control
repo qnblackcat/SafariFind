@@ -1,6 +1,6 @@
 Package: com.p2kdev.safarifind
 Name: SafariFind
-Version: 1.1.3
+Version: 1.1.4
 Architecture: iphoneos-arm64
 Description: Easy access to find feature in Safari! Long-press the Share button to open Find on Page.
 Section: Tweaks
