@@ -5,5 +5,5 @@ Architecture: iphoneos-arm64
 Description: Easy access to find feature in Safari! Long-press the Share button to open Find on Page.
 Section: Tweaks
 Depends: firmware (>=15.0), mobilesubstrate
-Author: Qn
+Author: P2KDev <p2kdev@gmail.com>
 Maintainer: Qn
